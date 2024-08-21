@@ -7,3 +7,5 @@ After the bitwise operation is performed, the result is converted back to 64 bit
 
 4. 负数以补码的形式存贮在计算机中，负数二进制和对应的正数二进制可以通过取反加一得到。
 5. 精髓就是：取反 --> 加一
+
+6. Use node to run it, no need the html file.

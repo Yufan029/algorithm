@@ -7,9 +7,7 @@ function printBinary() {
     console.log(`The Number.MIN_VALUE is: ${Number.MIN_VALUE}`);
     console.log(`The Number.MIN_SAFE_INTEGER is: ${Number.MIN_SAFE_INTEGER}`);
 
-    const input = prompt(`please input number`);
-
-    const number = Number(input);
+    const number = -6;
     console.log(`The binary of ${number} is:`);
 
     const binaryArr = [];
